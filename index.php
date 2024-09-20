@@ -5,7 +5,9 @@ include __DIR__."/vendor/autoload.php";
 
 
 $latte = new Engine();
-$latte->render("homepage.html");
+$latte->render("homepage.latte",[
+    "data" => "Hello from PHP"
+]);
 
 
 

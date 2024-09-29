@@ -50,9 +50,6 @@ if(isset($_POST["Login"])){
     }
 }
 
-
-
-
 $latte = new Engine();
 $latte->render("templates/auth.latte",[
     "error" => $error

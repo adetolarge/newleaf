@@ -3,7 +3,7 @@
         'name' => 'tolarge/newleaf',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '8bc62f88db8cd27029443af104262e687a845243',
+        'reference' => '2a8fbf2b64197d2b0b7593c7e49c8024b6be1a9f',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -82,7 +82,7 @@
         'tolarge/newleaf' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '8bc62f88db8cd27029443af104262e687a845243',
+            'reference' => '2a8fbf2b64197d2b0b7593c7e49c8024b6be1a9f',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
